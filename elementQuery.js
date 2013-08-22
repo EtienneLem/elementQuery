@@ -3,8 +3,8 @@
     // Enable strict mode
     "use strict";
 
-    // Use Sizzle standalone or from jQuery
-    var sizzle = window.Sizzle || jQuery.find;
+    // Use Sizzle standalone, Zepto or jQuery
+    var sizzle = window.Sizzle || window.Zepto || jQuery.find;
 
     // Set the number of sizzle selectors to cache (default is 50)
     //sizzle.selectors.cacheLength = 50;

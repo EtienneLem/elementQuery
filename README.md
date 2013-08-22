@@ -62,7 +62,7 @@ elementQuery({"header":{"min-width":["500px","31.250em"],"max-width":["800px"]}}
 ## Requirements
 
 * JavaScript
-* Sizzle (http://sizzlejs.com/) or jQuery (http://jquery.com/)
+* Sizzle (http://sizzlejs.com/), Zepto (http://zeptojs.com) or jQuery (http://jquery.com/)
 
 ## Size and delivery
 
